@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gerenciarListaTarefas>
+    <tarefas>
+        <tarefa>
+            <categoria>Trbalho</categoria>
+            <dataConclusao>09/08/2024</dataConclusao>
+            <dataCriacao>09/08/2024</dataCriacao>
+            <descricao>Dev 0</descricao>
+            <id>3713bcdd-d45a-43dc-9719-b3c385ad09fd</id>
+            <prioridade>Baixa</prioridade>
+            <status>Concluído</status>
+        </tarefa>
+        <tarefa>
+            <categoria>Trabalho</categoria>
+            <dataConclusao>09/08/2024</dataConclusao>
+            <dataCriacao>09/08/2024</dataCriacao>
+            <descricao>Dev 1</descricao>
+            <id>009f8093-6eaf-4dd3-961d-c73297d75f60</id>
+            <prioridade>Média</prioridade>
+            <status>Concluído</status>
+        </tarefa>
+        <tarefa>
+            <categoria>Trabalho</categoria>
+            <dataConclusao>09/08/2024</dataConclusao>
+            <dataCriacao>09/08/2024</dataCriacao>
+            <descricao>Dev 2</descricao>
+            <id>26d6351c-9552-4fdc-a1e8-01eba0b8f8d9</id>
+            <prioridade>Alta</prioridade>
+            <status>Concluído</status>
+        </tarefa>
+        <tarefa>
+            <categoria>Trabalho</categoria>
+            <dataCriacao>09/08/2024</dataCriacao>
+            <descricao>Dev 3</descricao>
+            <id>e16f860d-0355-47c4-aea3-cd6d894980ae</id>
+            <prioridade>Alta</prioridade>
+            <status>Pendente</status>
+        </tarefa>
+        <tarefa>
+            <categoria>Trabalho</categoria>
+            <dataCriacao>09/08/2024</dataCriacao>
+            <descricao>Dev 4</descricao>
+            <id>1e8af5fc-8418-4b12-a287-cdfd28f4cc9a</id>
+            <prioridade>Média</prioridade>
+            <status>Pendente</status>
+        </tarefa>
+        <tarefa>
+            <categoria>Trabalho</categoria>
+            <dataCriacao>09/08/2024</dataCriacao>
+            <descricao>Dev 5</descricao>
+            <id>3c99ec04-78a0-4fec-8768-f51d751f683c</id>
+            <prioridade>Baixa</prioridade>
+            <status>Pendente</status>
+        </tarefa>
+    </tarefas>
+</gerenciarListaTarefas>

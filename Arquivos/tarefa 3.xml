@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gerenciarListaTarefas>
+    <tarefas>
+        <tarefa>
+            <categoria>Tarefa</categoria>
+            <dataCriacao>09/08/2024</dataCriacao>
+            <descricao>Tarefa</descricao>
+            <id>0aaa59d8-1534-4015-854b-bf36eb71e4a9</id>
+            <prioridade>Baixa</prioridade>
+            <status>Pendente</status>
+        </tarefa>
+    </tarefas>
+</gerenciarListaTarefas>
